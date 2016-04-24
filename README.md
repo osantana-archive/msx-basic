@@ -13,3 +13,4 @@ directories:
 * **books:** Contains software listed on MSX books with some "personal
   improvements".
 * **3rd:** This directory contains 3rd-party software from diferent sources.
+* **improvements:** Improved versions of my code from friends (fudebas).
